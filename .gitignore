@@ -1,0 +1,20 @@
+# Everything except inference code
+weights/
+lambda/
+functions/
+env/
+results/
+__pycache__/
+*.pyc
+*.pyo
+*.pth
+*.onnx
+.env
+.venv
+venv/
+*.egg-info/
+dist/
+build/
+.DS_Store
+Thumbs.db
+*.log
